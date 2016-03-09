@@ -15,3 +15,7 @@ http://kaveh.me
 - They have genome and characteristics
 
 .play hello.go
+
+* Now lets run the prime
+
+.play main.go  /^func main/,/^}/
