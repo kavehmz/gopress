@@ -18,4 +18,6 @@ http://kaveh.me
 
 * Now lets run the prime
 
-.play main.go  /^func main/,/^}/
+.play main.go  /START OMIT/,/END OMIT/
+
+.play main.go  /START OMIT/,/END OMIT/ HL01
